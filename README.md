@@ -12,12 +12,12 @@
 
 I'm a **Senior Backend Developer** with **5+ years** of professional experience building scalable, production-grade applications using **Laravel** and **PHP**. I specialize in solving complex problems, optimizing database performance, and integrating payment systems.
 
-- 🔭 Currently working on: **Production Laravel applications** serving thousands of users
-- 🌱 Learning: **Laravel 11 features**, **AWS architecture**, **Database sharding**
+- 🔭 Currently working on: **Production Laravel/NodeJS applications** serving thousands of users
+- 🌱 Learning: **Laravel 11 features**, **AWS architecture**,**NodeJS**, **Database sharding**
 - 💼 Available for: **Part-time remote projects** (20 hours/week)
 - ⏰ Working hours: **10 PM - 2 AM PKT** (Perfect overlap with **US business hours**)
-- 💬 Ask me about: **Laravel, PHP, MySQL optimization, Stripe integration, API development**
-- 📫 Reach me: **bilawalali6243@gmail.com** | **+92 304 9140039**
+- 💬 Ask me about: **Laravel,NodeJs, PHP, MySQL/PostgreSQL optimization, Stripe integration, API development**
+- 📫 Reach me: **<bilawalali6243@gmail.com>** | **+92 304 9140039**
 - ⚡ Fun fact: I've reduced API response times by **60-70%** through database optimization
 
 ---
@@ -25,19 +25,24 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 ## 🛠️ Tech Stack & Expertise
 
 ### Backend Development
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ### Cloud & Services
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-96DC5F?style=for-the-badge&logo=paypal&labelColor=111109&color=4e7337)
 
 ### Frontend & Mobile
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,10 +51,12 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### DevOps & Tools
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 ---
 
@@ -63,18 +70,20 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 - ✅ **API Development** - RESTful API design for web and mobile applications (iOS/Android)
 - ✅ **Real-time Features** - WebSockets, Pusher, Firebase for live updates and notifications
 - ✅ **Cloud Services** - AWS S3 integration, secure file uploads, media storage optimization
-- ✅ **Server Management** - Linux (Ubuntu/AlmaLinux), Nginx, Apache, cPanel, deployment automation
+- ✅ **Server Management** - Linux (Ubuntu/AlmaLinux), Nginx, Apache, cPanel, deployment automation (FTP workflows)
 - ✅ **Database Replication** - MySQL ↔ MariaDB bidirectional replication setup
 
 ### 🚀 Project Experience
 
 **Production Systems Built:**
+
 - 📱 Social/Video Platform - 5,000+ users, AWS S3 integration, real-time feeds
 - 🚗 Ride-Hailing System - GPS tracking, Stripe payments, driver payouts, 2,000+ monthly rides
 - 🏠 Property Listing Portal - 100,000+ listings, advanced search, database optimization
 - 💾 Database Replication System - MySQL/MariaDB sync, automated backups, disaster recovery
 
 **Key Achievements:**
+
 - Reduced API response times from **3.2s to 450ms** (86% improvement)
 - Optimized queries serving **100K+ records** with sub-500ms response times
 - Processed **$500K+ in transactions** with zero payment failures
@@ -83,8 +92,6 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 ---
 
 ## 📊 GitHub Stats
-
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baligs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -99,7 +106,9 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 <td width="50%" valign="top">
 
 ### Backend & APIs
+
 - Laravel 9/10/11 Framework
+- NodeJs Framework
 - RESTful API Design
 - Authentication & Authorization
 - Queue & Job Processing
@@ -112,6 +121,7 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 <td width="50%" valign="top">
 
 ### Database & Performance
+
 - MySQL 8.0 Query Optimization
 - Strategic Indexing
 - Database Replication
@@ -127,6 +137,7 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 <td width="50%" valign="top">
 
 ### Payment Systems
+
 - Stripe Integration (Checkout, Subscriptions)
 - PayPal Subscription Management
 - Webhook Processing
@@ -140,6 +151,7 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 <td width="50%" valign="top">
 
 ### DevOps & Infrastructure
+
 - Linux Server Management
 - Nginx & Apache Configuration
 - WHM/cPanel Administration
@@ -157,24 +169,28 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 
 ## 🎓 Problem-Solving Skills
 
-### Production Issues I've Solved:
+### Production Issues I've Solved
 
 **Performance Optimization:**
+
 - ⚡ Reduced API response times by **60-70%** through strategic query optimization
 - ⚡ Optimized N+1 query problems reducing execution time from **5s to <500ms**
 - ⚡ Implemented caching strategies reducing database load by **85%**
 
 **Payment Systems:**
+
 - 💳 Fixed webhook processing failures preventing missed transactions
 - 💳 Implemented retry logic reducing payment failures by **95%**
 - 💳 Achieved **100% payout accuracy** for marketplace platforms
 
 **Database:**
+
 - 🗄️ Optimized queries on **100K+ record tables** achieving sub-second response times
 - 🗄️ Set up MySQL ↔ MariaDB replication with **zero data loss**
 - 🗄️ Migrated **50GB+ databases** with zero downtime
 
 **Infrastructure:**
+
 - 🖥️ Resolved server performance issues handling **500+ concurrent users**
 - 🖥️ Configured security measures preventing attacks and unauthorized access
 - 🖥️ Maintained **99.8% uptime** for production systems
@@ -208,7 +224,7 @@ I'm a **Senior Backend Developer** with **5+ years** of professional experience 
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 I'm always interested in challenging Laravel projects and exciting opportunities. Whether you need:
 
@@ -343,6 +359,7 @@ Frontend (JS/CSS)  ████████████          60%
 ## 📢 Open to Opportunities
 
 I'm currently accepting:
+
 - 🎯 Part-time remote contracts (20 hours/week)
 - 💼 Long-term retainer agreements
 - 🚀 Interesting Laravel projects
@@ -350,6 +367,7 @@ I'm currently accepting:
 - 💡 Technical consulting
 
 **Not interested in:**
+
 - ❌ Full-time on-site positions
 - ❌ Non-technical roles
 - ❌ Projects outside my expertise
@@ -360,12 +378,11 @@ I'm currently accepting:
 
 ### 💬 "Clean code, optimized databases, and reliable systems - that's what I deliver."
 
-
 ---
 
 **⭐ If you find my work interesting, consider giving my repositories a star!**
 
-**📧 Let's build something amazing together:** bilawalali6243@gmail.com
+**📧 Let's build something amazing together:** <bilawalali6243@gmail.com>
 
 ---
 
